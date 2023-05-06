@@ -1,4 +1,4 @@
-#CVE Exploits
+# CVE-Exploits
 
 This repository contains various exploit scripts related to public CVEs. These scripts are provided for educational purposes only and should not be used for any malicious or illegal activities.
 
